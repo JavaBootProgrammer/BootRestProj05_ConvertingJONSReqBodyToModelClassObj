@@ -34,3 +34,10 @@ target/surefire-reports/com.nt.BootRestProj03SendingJsonAsResponseApplicationTes
 target/surefire-reports/TEST-com.nt.BootRestProj03SendingJsonAsResponseApplicationTests.xml
 target/m2e-wtp/web-resources/META-INF/maven/com.nt/BootRestProj05_ConvertingJONSReqBodyToModelClassObj/pom.properties
 target/m2e-wtp/web-resources/META-INF/maven/com.nt/BootRestProj05_ConvertingJONSReqBodyToModelClassObj/pom.xml
+.classpath
+.factorypath
+.idea/workspace.xml
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.wst.common.component
+src/main/java/com/nt/controller/ActorController.java
+src/main/java/com/nt/model/Actor.java
